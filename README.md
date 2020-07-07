@@ -3,7 +3,7 @@
 一个按照真实工作流程编写的移动电商app
 
 ## 页面展示
-![Image](https://github.com/aibuijn/aibujin/blob/master/images/fl-app-fp.jpg?raw=true)
+![Image](https://github.com/aibuijn/aibujin/blob/master/images/fl-app-img.jpg?raw=true)
 
 ## 插件
 
