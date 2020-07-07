@@ -1,12 +1,11 @@
 # flutterapp
 
-一个按照真实工作流程编写的移动电商app,接口数据来源网络,如有侵权，请联系我;
+一个按照真实工作流程编写的移动电商app，接口数据来源网络，如有侵权，请联系我;
 
 ## 页面展示
 ![Image](https://github.com/aibuijn/aibujin/blob/master/images/fl-app-img.jpg?raw=true)
 
 ## 插件
-
    dio: 用于向后端接口作HTTP请求数据  
    flutter_swiper: 轮播插件，制作了商城首页的轮播效果  
    flutter_screenutil: 用于不同屏幕的适配，一次设计，适配所有屏幕  
