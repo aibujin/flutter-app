@@ -2,6 +2,9 @@
 
 一个按照真实工作流程编写的移动电商app
 
+## 页面展示
+https://raw.githubusercontent.com/aibuijn/aibujin/master/images/fl-app-fp.jpg?token=AIM72NT7GYPEWNT42DUW4DK7AQFIO
+
 ## 插件
 
    dio: 用于向后端接口作HTTP请求数据  
