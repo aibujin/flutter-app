@@ -3,7 +3,7 @@
 一个按照真实工作流程编写的移动电商app，接口数据来源网络，如有侵权，请联系我; 
 
 ## 页面展示
-   如果图片失效，可以刷新页面或者切换到上个页面查看img项目; 
+   如果图片失效，可以刷新页面或者切换到上个页面查看img项目;   
 ![Image](https://github.com/aibuijn/aibujin/blob/master/images/fl-app-img.jpg?raw=true)
 
 ## 插件
