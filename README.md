@@ -1,6 +1,6 @@
 # flutterapp
 
-一个按照真实工作流程编写的移动电商app，接口数据来源网络，如有侵权，请联系我;
+一个按照真实工作流程编写的移动电商app，接口数据来源网络，如有侵权，请联系我; 
 
 ## 页面展示
 ![Image](https://github.com/aibuijn/aibujin/blob/master/images/fl-app-img.jpg?raw=true)
